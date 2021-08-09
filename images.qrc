@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/termux.png</file>
+        <file>img/termux2.png</file>
+    </qresource>
+</RCC>

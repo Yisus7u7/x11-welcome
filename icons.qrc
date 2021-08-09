@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/console_96px.png</file>
+        <file>icons/discord_32px.png</file>
+        <file>icons/github_32px.png</file>
+        <file>icons/reddit_32.px.png</file>
+        <file>icons/telegram_32px.png</file>
+        <file>icons/termux.png</file>
+        <file>icons/org.gnome.Tour.svg</file>
+    </qresource>
+</RCC>
