@@ -36,3 +36,8 @@ And run
 ```
 ./x11-welcome
 ```
+
+## Contribute 
+
+If you want to add graphical improvements or more consistent information, 
+Feel free to make a pull request 
