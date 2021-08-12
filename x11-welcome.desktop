@@ -1,10 +1,10 @@
 [Desktop Entry]
-Version=1.0.0
+Version=1.0.2
 Type=Application
 Exec=x11-welcome
 Icon=help-about
 StartupNotify=true
 Terminal=false
 Categories=Utility;Qt;
-Name=x11-repo about
+Name=x11-repo welcome
 Comment=Information and help of x11-repo (termux)

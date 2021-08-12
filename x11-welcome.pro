@@ -33,7 +33,8 @@ RESOURCES += \
     images.qrc
 
 DISTFILES += \
-    x11-about.desktop
+    install.sh \
+    x11-welcome.desktop
 
 isEmpty(PREFIX) {
   PREFIX = /data/data/com.termux/files/usr
