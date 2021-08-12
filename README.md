@@ -1,7 +1,7 @@
 # x11-welcome
 A simple welcome app for x11 written in Qt
 
-![image](Screenshot_20210809-133928.png) 
+![image](preview.png) 
 
 x11-welcome is an (unofficial) application with a simple description and links to groups and help from termux x11 
 
@@ -18,23 +18,20 @@ termux-desktop-xfce, to provide a welcome message
 pkg update
 pkg install clang qt5-qttools qt5-qtbase
 ```
-
-### Compilation
+# installation (for termux)
 
 ```bash
 git clone https://github.com/Yisus7u7/x11-welcome
 
 cd x11-welcome
 
-qmake x11-welcome.pro
-
-make
+./install.sh
 ```
 
 And run
 
 ```
-./x11-welcome
+x11-welcome
 ```
 
 ## Contribute 
